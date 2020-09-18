@@ -1,3 +1,6 @@
 [submodule "project2"]
 	path = project2
 	url = https://github.com/javawcy/git-modules-test1.git
+[submodule "project3"]
+	path = project3
+	url = https://github.com/javawcy/git-module3.git
